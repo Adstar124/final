@@ -1,0 +1,2 @@
+matplotlib == 3.4.3
+folium == 0.12.1
